@@ -1,0 +1,64 @@
+{
+  "requests": [
+    {
+      "aspect_ratio": "16:9",
+      "resolution": "2K",
+      "output_file": "puff-part-bed-persp.png",
+      "prompt": "A clean 2D three-quarter perspective product reference image of ONE single object: a soft basket-shaped cat bed, shown from a raised three-quarter angle so that both its front and one of its sides are visible, drawn on a plain warm white background in the same flat vector illustration style as an orthographic sheet: clean flat shapes with gentle soft shading, no realistic rendering.\n\nThe object: a soft tan basket-shaped cat bed with a low rounded rectangular tub, a taller bolster rim at the back and lower rims at the front and both sides, and a plump soft misty blue cushion filling the inside of the tub\n\nDIMENSION ANNOTATIONS: thin dark-gray dimension lines with small arrowheads and small neat sans-serif labels in meters placed around the object: label the overall width as 1.20 m, the overall depth as 1.00 m and the overall height as 0.60 m, and add a small leader-line label pointing at the top surface of the blue cushion reading 0.54 m\n\nSTYLE: clean flat vector shapes with soft simple shading, warm sand tan for the bed shell, soft misty blue for the cushion, subtle soft contact shadow beneath the object, plain warm off-white background, no extra text, no title, no captions, no extra labels, no watermark"
+    },
+    {
+      "aspect_ratio": "16:9",
+      "resolution": "2K",
+      "output_file": "puff-part-sofa-persp.png",
+      "prompt": "A clean 2D three-quarter perspective product reference image of ONE single object: a small plush two-seat sofa, shown from a raised three-quarter angle so that both its front and one of its sides are visible, drawn on a plain warm white background in the same flat vector illustration style as an orthographic sheet: clean flat shapes with gentle soft shading, no realistic rendering.\n\nThe object: a plush cream two-seat sofa with a warm cream rounded frame and backrest, two thick soft misty blue seat cushions, softly rounded cream armrests at both ends, short dark brown tapered legs, and a small misty blue square pillow with a white star pattern leaning against one end of the backrest\n\nDIMENSION ANNOTATIONS: thin dark-gray dimension lines with small arrowheads and small neat sans-serif labels in meters placed around the object: label the overall length as 2.00 m, the overall depth as 0.95 m and the overall height as 1.15 m, and add a small leader-line label pointing at the top surface of the seat cushions reading 0.99 m\n\nSTYLE: clean flat vector shapes with soft simple shading, warm cream for the sofa frame and backrest, soft misty blue for the seat cushions, dark warm brown for the legs, subtle soft contact shadow beneath the object, plain warm off-white background, no extra text, no title, no captions, no extra labels, no watermark"
+    },
+    {
+      "aspect_ratio": "16:9",
+      "resolution": "2K",
+      "output_file": "puff-part-bowl-persp.png",
+      "prompt": "A clean 2D three-quarter perspective product reference image of ONE single object: a small round ceramic pet food bowl, shown from a raised three-quarter angle so that both its front and one of its sides are visible, drawn on a plain warm white background in the same flat vector illustration style as an orthographic sheet: clean flat shapes with gentle soft shading, no realistic rendering.\n\nThe object: a small round cream ceramic pet bowl with a slightly wider thick rim ring and a small foot ring, holding a few coral-orange kibble pieces\n\nDIMENSION ANNOTATIONS: thin dark-gray dimension lines with small arrowheads and small neat sans-serif labels in meters placed around the object: label the overall diameter as 0.30 m and the overall height as 0.09 m\n\nSTYLE: clean flat vector shapes with soft simple shading, warm cream white and pale beige for the ceramic, coral orange for the kibble, subtle soft contact shadow beneath the object, plain warm off-white background, no extra text, no title, no captions, no extra labels, no watermark"
+    },
+    {
+      "aspect_ratio": "16:9",
+      "resolution": "2K",
+      "output_file": "puff-part-box-persp.png",
+      "prompt": "A clean 2D three-quarter perspective product reference image of ONE single object: an open brown cardboard shipping box, shown from a raised three-quarter angle so that both its front and one of its sides are visible, drawn on a plain warm white background in the same flat vector illustration style as an orthographic sheet: clean flat shapes with gentle soft shading, no realistic rendering.\n\nThe object: an open kraft brown cardboard carton with its top flaps folded outward and a rolled soft grey towel and cream blanket poking out of the opening\n\nDIMENSION ANNOTATIONS: thin dark-gray dimension lines with small arrowheads and small neat sans-serif labels in meters placed around the object: label the overall width as 0.90 m, the overall depth as 0.90 m and the overall height as 0.70 m\n\nSTYLE: clean flat vector shapes with soft simple shading, kraft brown and warm tan for the cardboard, soft grey and cream for the contents, subtle soft contact shadow beneath the object, plain warm off-white background, no extra text, no title, no captions, no extra labels, no watermark"
+    },
+    {
+      "aspect_ratio": "16:9",
+      "resolution": "2K",
+      "output_file": "puff-part-ball-persp.png",
+      "prompt": "A clean 2D three-quarter perspective product reference image of ONE single object: a round patchwork yarn toy ball, shown from a raised three-quarter angle so that both its front and one of its sides are visible, drawn on a plain warm white background in the same flat vector illustration style as an orthographic sheet: clean flat shapes with gentle soft shading, no realistic rendering.\n\nThe object: a coral orange plush yarn ball with a wide cream woven band around it and rounded misty blue and cream patch segments bulging out of the surface\n\nDIMENSION ANNOTATIONS: thin dark-gray dimension lines with small arrowheads and small neat sans-serif labels in meters placed around the object: label the overall diameter as 0.36 m\n\nSTYLE: clean flat vector shapes with soft simple shading, coral orange, warm cream and soft misty blue for the yarn, subtle soft contact shadow beneath the object, plain warm off-white background, no extra text, no title, no captions, no extra labels, no watermark"
+    },
+    {
+      "aspect_ratio": "16:9",
+      "resolution": "2K",
+      "output_file": "puff-part-windowsill-persp.png",
+      "prompt": "A clean 2D three-quarter perspective product reference image of ONE single object: a wall-mounted window sill ledge, shown from a raised three-quarter angle so that both its front and one of its sides are visible, drawn on a plain warm white background in the same flat vector illustration style as an orthographic sheet: clean flat shapes with gentle soft shading, no realistic rendering.\n\nThe object: a slim cream white wall-mounted window ledge with a terracotta pot of green plant and a small square cream photo frame standing on it\n\nDIMENSION ANNOTATIONS: thin dark-gray dimension lines with small arrowheads and small neat sans-serif labels in meters placed around the object: label the overall length as 1.80 m, the overall depth as 0.35 m and the overall height as 0.15 m\n\nSTYLE: clean flat vector shapes with soft simple shading, warm cream white for the ledge, warm off-white for the wall, terracotta orange and leaf green for the potted plants, subtle soft contact shadow beneath the object, plain warm off-white background, no extra text, no title, no captions, no extra labels, no watermark"
+    },
+    {
+      "aspect_ratio": "16:9",
+      "resolution": "2K",
+      "output_file": "puff-part-tree-persp.png",
+      "prompt": "A clean 2D three-quarter perspective product reference image of ONE single object: a tall cat climbing tower, shown from a raised three-quarter angle so that both its front and one of its sides are visible, drawn on a plain warm white background in the same flat vector illustration style as an orthographic sheet: clean flat shapes with gentle soft shading, no realistic rendering.\n\nThe object: a tall misty blue cat climbing tower with a round base, a cream rope-wrapped post, two flat shelves at different heights, a small house-shaped cat bed with a round arched doorway at the top and a coral toy ball hanging on a string\n\nDIMENSION ANNOTATIONS: thin dark-gray dimension lines with small arrowheads and small neat sans-serif labels in meters placed around the object: label the overall width as 0.80 m, the overall depth as 0.80 m and the overall height as 1.80 m\n\nSTYLE: clean flat vector shapes with soft simple shading, soft misty blue for the shelves and house, warm cream rope for the post, pale wood for the base, coral orange for the toy ball, subtle soft contact shadow beneath the object, plain warm off-white background, no extra text, no title, no captions, no extra labels, no watermark"
+    },
+    {
+      "aspect_ratio": "16:9",
+      "resolution": "2K",
+      "output_file": "puff-part-desk-persp.png",
+      "prompt": "A clean 2D three-quarter perspective product reference image of ONE single object: a small wooden writing desk, shown from a raised three-quarter angle so that both its front and one of its sides are visible, drawn on a plain warm white background in the same flat vector illustration style as an orthographic sheet: clean flat shapes with gentle soft shading, no realistic rendering.\n\nThe object: a misty blue painted wooden desk with open knee space on the left and a two-drawer pedestal on the right, topped with a black flat-screen monitor, a misty blue anglepoise desk lamp, a small potted plant and a stack of books\n\nDIMENSION ANNOTATIONS: thin dark-gray dimension lines with small arrowheads and small neat sans-serif labels in meters placed around the object: label the overall width as 1.60 m, the overall depth as 0.70 m and the overall height of the desk itself as 0.75 m\n\nSTYLE: clean flat vector shapes with soft simple shading, soft misty blue for the desk, near black for the monitor and screen, warm wood for the books, terracotta orange and leaf green for the plant, subtle soft contact shadow beneath the object, plain warm off-white background, no extra text, no title, no captions, no extra labels, no watermark"
+    },
+    {
+      "aspect_ratio": "16:9",
+      "resolution": "2K",
+      "output_file": "puff-part-doormat-persp.png",
+      "prompt": "A clean 2D three-quarter perspective product reference image of ONE single object: a flat rectangular woven doormat, shown from a raised three-quarter angle so that both its front and one of its sides are visible, drawn on a plain warm white background in the same flat vector illustration style as an orthographic sheet: clean flat shapes with gentle soft shading, no realistic rendering.\n\nThe object: a thin flat rectangular beige woven doormat with a darker beige border frame and fine horizontal stripes\n\nDIMENSION ANNOTATIONS: thin dark-gray dimension lines with small arrowheads and small neat sans-serif labels in meters placed around the object: label the overall width as 0.90 m, the overall depth as 0.55 m and the thickness as 0.03 m\n\nSTYLE: clean flat vector shapes with soft simple shading, warm beige, cream and a single coral stripe accent, subtle soft contact shadow beneath the object, plain warm off-white background, no extra text, no title, no captions, no extra labels, no watermark"
+    },
+    {
+      "aspect_ratio": "16:9",
+      "resolution": "2K",
+      "output_file": "puff-part-rug-persp.png",
+      "prompt": "A clean 2D three-quarter perspective product reference image of ONE single object: a large flat rectangular rug with a star pattern, shown from a raised three-quarter angle so that both its front and one of its sides are visible, drawn on a plain warm white background in the same flat vector illustration style as an orthographic sheet: clean flat shapes with gentle soft shading, no realistic rendering.\n\nThe object: a large thin flat rectangular misty blue rug with a deeper blue border and scattered white five-pointed stars\n\nDIMENSION ANNOTATIONS: thin dark-gray dimension lines with small arrowheads and small neat sans-serif labels in meters placed around the object: label the overall width as 1.40 m, the overall depth as 1.90 m and the thickness as 0.02 m\n\nSTYLE: clean flat vector shapes with soft simple shading, soft misty blue and deeper blue with white stars, subtle soft contact shadow beneath the object, plain warm off-white background, no extra text, no title, no captions, no extra labels, no watermark"
+    }
+  ]
+}
